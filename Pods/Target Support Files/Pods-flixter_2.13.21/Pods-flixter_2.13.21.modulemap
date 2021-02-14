@@ -1,0 +1,6 @@
+framework module Pods_flixter_2_13_21 {
+  umbrella header "Pods-flixter_2.13.21-umbrella.h"
+
+  export *
+  module * { export * }
+}
