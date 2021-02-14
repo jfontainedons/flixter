@@ -20,4 +20,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 https://recordit.co/as25OFxsb1
 
 ### Notes
-Describe any challenges encountered while building the app.
+I was using xcode 10.3 and experienced a lot of bugs that I eventually realized were related to versioning. I also wasn't able to install cocoapods using the pod install command. Instead, I had to run:
+sudo arch -x86_64 gem install ffi
+arch -x86_64 pod install
