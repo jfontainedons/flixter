@@ -34,7 +34,7 @@ Describe any challenges encountered while building the app.
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
-https://recordit.co/as25OFxsb1
+<img src="https://recordit.co/as25OFxsb1.gif" width=250><br>
 
 ### Notes
 I was using xcode 10.3 and experienced a lot of bugs that I eventually realized were related to versioning. I also wasn't able to install cocoapods using the pod install command. Instead, I had to run: sudo arch -x86_64 gem install ffi and arch -x86_64 pod install
